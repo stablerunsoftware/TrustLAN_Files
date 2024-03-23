@@ -1,0 +1,4 @@
+Download error: Code 55
+No internet connection: Code 111
+Installer Unknown Errors: Code 9999
+Installation in progress: Code 200
