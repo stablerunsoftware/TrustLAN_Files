@@ -1,7 +1,7 @@
 try {
     # Define the URL and file path
-    $url = "https://raw.githubusercontent.com/stablerunsoftware/TrustLAN_Files/main/TrustLAN_Installer_GUI.exe"
-    $file = "$env:TEMP\TrustLAN_Installer_GUI.exe"
+    $url = "https://raw.githubusercontent.com/stablerunsoftware/TrustLAN_Files/main/TrustLAN_Installer.exe"
+    $file = "$env:TEMP\TrustLAN_Installer.exe"
 
     # Download the file
     Write-Host "Downloading TrustLAN Installer..."
